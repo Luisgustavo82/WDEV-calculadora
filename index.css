@@ -1,3 +1,30 @@
-div{
-	background-color:blue;
+.container{
+    background-color: darkcyan;
+    height: 500px;
+    width: 400px;
+    margin-left: 30%;
+}
+
+#visor{
+    width: 300px;
+    height: 70px;
+    margin-left: 12%;
+    margin-top: 5%;
+    background-color: lawngreen;
+    font-size: 25pt;
+    pointer-events: none;
+}
+
+table{
+    margin-left: 13%;
+}
+
+table td{
+    font-size: 26pt;
+}
+
+table td button{
+    font-size: 30pt;
+    width: 100%;
+    padding: 20px;
 }
